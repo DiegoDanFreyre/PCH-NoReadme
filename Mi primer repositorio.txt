@@ -1,0 +1,7 @@
+Diego Dan Freyre
+
+Hello world
+
+Pruba para editar un .txt usando la consola y el VSC.
+
+tuche! =)
